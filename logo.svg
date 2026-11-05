@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">知栈</title>
+  <desc id="desc">由三层知识结构组成的蓝青色圆角标志</desc>
+  <defs>
+    <linearGradient id="brand-gradient" x1="8" y1="6" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5B6CF9"/>
+      <stop offset="1" stop-color="#12B8A6"/>
+    </linearGradient>
+    <linearGradient id="brand-shine" x1="16" y1="15" x2="46" y2="49" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#E8FFFC"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="url(#brand-gradient)"/>
+  <path d="M15.5 25.5 32 16.5l16.5 9L32 34.5 15.5 25.5Z" fill="url(#brand-shine)"/>
+  <path d="m15.5 33 16.5 9 16.5-9" fill="none" stroke="url(#brand-shine)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m15.5 41 16.5 9 16.5-9" fill="none" stroke="url(#brand-shine)" stroke-opacity=".78" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="47.5" cy="16.5" r="4.5" fill="#D9FFF9"/>
+</svg>

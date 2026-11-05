@@ -1,0 +1,112 @@
+3:"$Sreact.fragment"
+4:"/tech-notes-site/_next/static/chunks/26wj98hf27hx-.js"
+5:"/tech-notes-site/_next/static/chunks/0uui-zb0iocsm.js"
+6:"/tech-notes-site/_next/static/chunks/2w66uwvhtklfr.js"
+7:"/tech-notes-site/_next/static/chunks/1lbo_zhl-gg24.js"
+8:"/tech-notes-site/_next/static/chunks/34nug9ljfrc9g.js"
+9:I[139380,["$4","$5","$6","$7","$8"],"default"]
+a:I[834348,["$4","$5","$6","$7","$8"],"default"]
+f:"/tech-notes-site/_next/static/chunks/147lgmd0j_l4-.js"
+10:"/tech-notes-site/_next/static/chunks/1wgoq9h1cbt-3.js"
+11:"/tech-notes-site/_next/static/chunks/2t-2in9ud9a0p.js"
+12:"/tech-notes-site/_next/static/chunks/1qaxjynlgh6e6.js"
+13:"/tech-notes-site/_next/static/chunks/2cnbh4knicb4c.js"
+14:"/tech-notes-site/_next/static/chunks/3utjie8cqywbm.js"
+15:"/tech-notes-site/_next/static/chunks/2jkjncdgnvzrz.js"
+16:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsPage"]
+17:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsTitle"]
+18:I[702819,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"default"]
+19:"MarkdownCopyButton"
+1a:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"$19"]
+1b:"ViewOptionsPopover"
+1c:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"$1b"]
+1d:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsDescription"]
+1e:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsBody"]
+1f:I[904659,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Lightbox"]
+20:I[401448,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Heading"]
+21:I[904659,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"ImageZoom"]
+5e:"ViewportBoundary"
+5f:I[100898,["$4","$5","$6","$7","$8"],"$5e"]
+60:"MetadataBoundary"
+61:I[100898,["$4","$5","$6","$7","$8"],"$60"]
+62:"$Sreact.suspense"
+63:I[106270,["$4","$5","$6","$7","$8"],"IconMark"]
+c:X
+c:C
+d:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$L16",null,{"toc":[{"depth":2,"url":"#基本命令","title":["1. ","基本命令"]},{"depth":3,"url":"#help","title":["1.1 ","help"]},{"depth":3,"url":"#cat","title":["1.2 ","cat"]},{"depth":3,"url":"#grep","title":["1.3 ","grep"]},{"depth":3,"url":"#pwd","title":["1.4 ","pwd"]},{"depth":3,"url":"#cls","title":["1.5 ","cls"]},{"depth":3,"url":"#session","title":["1.6 ","session"]},{"depth":3,"url":"#reset","title":["1.7 ","reset"]},{"depth":3,"url":"#version","title":["1.8 ","version"]},{"depth":3,"url":"#history","title":["1.9 ","history"]},{"depth":3,"url":"#quit","title":["1.10 ","quit"]},{"depth":3,"url":"#stop","title":["1.11 ","stop"]},{"depth":3,"url":"#keymap","title":["1.12 ","keymap"]},{"depth":2,"url":"#jvm-相关","title":["2. ","jvm 相关"]},{"depth":3,"url":"#dashboard-仪表板","title":["2.1 ","dashboard 仪表板"]},{"depth":3,"url":"#thread-线程","title":["2.2 ","thread 线程"]},{"depth":3,"url":"#jvm-虚拟机","title":["2.3 ","jvm 虚拟机"]},{"depth":3,"url":"#sysprop-系统属性","title":["2.4 ","sysprop 系统属性"]},{"depth":2,"url":"#classclassloader-相关","title":["3. ","class/classloader 相关"]},{"depth":2,"url":"#monitorwatchtrace-相关","title":["4. ","monitor/watch/trace 相关"]}],"children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","$L17",null,{"className":"min-w-0","children":"命令列表"}],["$","div",null,{"className":"flex shrink-0 flex-nowrap items-center gap-2 whitespace-nowrap","children":[["$","a",null,{"href":"/tech-notes-site/print/docs/backend/arthas/command","target":"_blank","rel":"noopener","title":"导出 PDF","aria-label":"导出 PDF","className":"rounded-md border p-1.5 text-fd-muted-foreground hover:bg-fd-accent","children":["$","$L18",null,{"icon":{"name":"file-down","size":24,"node":[["path",{"d":"M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z","key":"1oefj6"}],["path",{"d":"M14 2v5a1 1 0 0 0 1 1h5","key":"wfsgrz"}],["path",{"d":"M12 18v-6","key":"17g6i2"}],["path",{"d":"m9 15 3 3 3-3","key":"1npd3o"}]]},"className":"size-4"}]}],["$","details",null,{"className":"relative","children":[["$","summary",null,{"aria-label":"导出 EPUB","title":"导出 EPUB","className":"cursor-pointer list-none rounded-md border p-1.5 text-fd-muted-foreground hover:bg-fd-accent","children":["$","$L18",null,{"icon":{"name":"book-down","size":24,"node":[["path",{"d":"M12 13V7","key":"h0r20n"}],["path",{"d":"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20","key":"k3hazp"}],["path",{"d":"m9 10 3 3 3-3","key":"zt5b4y"}]]},"className":"size-4"}]}],["$","div",null,{"className":"absolute end-0 top-full z-50 mt-2 w-56 rounded-xl border bg-fd-popover p-1 text-sm text-fd-popover-foreground shadow-lg","children":[["$","a",null,{"className":"block rounded-lg px-3 py-2 hover:bg-fd-accent","href":"/tech-notes-site/export/epub/article/backend/arthas/command/notes.epub","children":"当前文章"}],["$","a",null,{"className":"block whitespace-normal rounded-lg px-3 py-2 hover:bg-fd-accent","href":"/tech-notes-site/export/epub/topic/backend/arthas/notes.epub","children":["当前专题：","Arthas"]}]]}]]}],["$","$L1a",null,{"markdownUrl":"/tech-notes-site/llms.mdx/docs/backend/arthas/command/content.md"}],["$","$L1c",null,{"markdownUrl":"/tech-notes-site/llms.mdx/docs/backend/arthas/command/content.md"}]]}]]}],["$","$L1d",null,{"className":"mb-0"}],["$","div",null,{"className":"border-b pb-6"}],["$","$L1e",null,{"children":["$","$L1f",null,{"children":[["$","$L20",null,{"as":"h2","id":"基本命令","children":"基本命令"}],"\n",["$","$L20",null,{"as":"h3","id":"help","children":"help"}],"\n",["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：查看命令帮助信息"]}],"\n",["$","p",null,{"children":["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/help.png","alt":"help.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/help.png","alt":"help.png","width":"1938","height":"1298","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]}],"\n",["$","$L20",null,{"as":"h3","id":"cat","children":"cat"}],"\n",["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：打印文件内容，和 linux 中的 cat 命令类似；如果没有写路径，则显示当前目录下的文件"]}],"\n",["$","p",null,{"children":["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/cat.png","alt":"cat.png","children":"$L22"}]}],"\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35","\n","$L36","\n","$L37","\n","$L38","\n","$L39","\n","$L3a","\n","$L3b","\n","$L3c","\n","$L3d","\n","$L3e","\n","$L3f","\n","$L40","\n","$L41","\n","$L42","\n","$L43","\n","$L44","\n","$L45","\n","$L46","\n","$L47","\n","$L48","\n","$L49","\n","$L4a","\n","$L4b","\n","$L4c","\n","$L4d","\n","$L4e","\n","$L4f","\n","$L50","\n","$L51","\n","$L52","\n","$L53","\n","$L54","\n","$L55"]}]}],"$L56"]}],["$L57","$L58","$L59","$L5a","$L5b"],"$L5c"]}],"p":"$@5d","v":null,"s":"$d"}}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"backend/arthas/command","s":["interview"]},"h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@b","v":"$c","s":"$d"},"c":"$Qe"}]]
+1:[["children",{"s":"docs","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L5f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L61",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$62",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"命令列表 · 知栈"}],["$","link","1",{"rel":"icon","href":"/tech-notes-site/logo.svg"}],["$","$L63","2",{}]]}]}],null]}],null]}],"p":"$@64","v":null,"s":"$d"}},"a":"$@65","u":"$@66","b":"1D3TL_6oYLV3wVbjISwAt"}
+67:I[602310,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"CodeBlock"]
+68:I[602310,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Pre"]
+69:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"PageLastUpdate"]
+6a:I[100898,["$4","$5","$6","$7","$8"],"OutletBoundary"]
+:HL["/tech-notes-site/_next/static/chunks/0iaxnelvtqw2u.css","style"]
+22:["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/cat.png","alt":"cat.png","width":"3024","height":"562","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]
+23:["$","$L20",null,{"as":"h3","id":"grep","children":"grep"}]
+24:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：匹配查找，和 linux 里的 grep 命令类似，但它只能用于管道命令"]}]
+25:["$","p",null,{"children":[["$","strong",null,{"children":"语法"}],"："]}]
+26:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数列表"}],["$","th",null,{"children":"作用"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"-n"}]}],["$","td",null,{"children":"显示行号"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"-i"}]}],["$","td",null,{"children":"忽略大小写查找"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":[["$","code",null,{"children":"-m"}]," 行数"]}],["$","td",null,{"children":"最大显示行数，要与查询字符串一起使用"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":[["$","code",null,{"children":"-e"}]," \"正则表达式\""]}],["$","td",null,{"children":"使用正则表达式查找"}]]}]]}]]}]}]
+27:["$","blockquote",null,{"children":["\n",["$","p",null,{"children":"查找包含 java 的行，返回带行号，且返回 10 条"}],"\n"]}]
+28:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/grep.png","alt":"grep.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/grep.png","alt":"grep.png","width":"650","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+29:["$","$L20",null,{"as":"h3","id":"pwd","children":"pwd"}]
+2a:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：显示当前工作目录，和 linux 命令类似 (pwd: Print Working Directory)"]}]
+2b:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/pwd.png","alt":"pwd.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/pwd.png","alt":"pwd.png","width":"650","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+2c:["$","$L20",null,{"as":"h3","id":"cls","children":"cls"}]
+2d:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：清空当前屏幕区域"]}]
+2e:["$","$L20",null,{"as":"h3","id":"session","children":"session"}]
+2f:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：查看当前会话的信息"]}]
+30:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/session.png","alt":"session.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/session.png","alt":"session.png","width":"650","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+31:["$","$L20",null,{"as":"h3","id":"reset","children":"reset"}]
+32:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：重置增强类，将被 Arthas 增强过的类全部还原"]}]
+33:["$","$L67",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L68",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# 还原指定类"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"reset"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" Test"}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# 还原所有以List结尾的类"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"reset"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" *"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":"List"}]]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# 还原所有类"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"rest"}]}]]}]}]}]
+34:["$","$L20",null,{"as":"h3","id":"version","children":"version"}]
+35:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：输出当前目标 Java 进程所加载的 Arthas 版本号"]}]
+36:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/version.png","alt":"version.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/version.png","alt":"version.png","width":"300","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+37:["$","$L20",null,{"as":"h3","id":"history","children":"history"}]
+38:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：打印命令历史"]}]
+39:["$","$L20",null,{"as":"h3","id":"quit","children":"quit"}]
+3a:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：退出当前 Arthas 客户端，其它 Arthas 客户端不会受到影响"]}]
+3b:["$","$L20",null,{"as":"h3","id":"stop","children":"stop"}]
+3c:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：关闭 Arthas 服务端，所有 Arthas 客户端全部退出"]}]
+3d:["$","$L20",null,{"as":"h3","id":"keymap","children":"keymap"}]
+3e:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：Arthas 快捷键列表及自定义快捷键"]}]
+3f:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/keymap.png","alt":"keymap.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/keymap.png","alt":"keymap.png","width":"650","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+40:["$","$L20",null,{"as":"h2","id":"jvm-相关","children":"jvm 相关"}]
+41:["$","$L20",null,{"as":"h3","id":"dashboard-仪表板","children":"dashboard 仪表板"}]
+42:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：显示当前系统的实时数据面板"]}]
+43:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/dashboard.png","alt":"dashboard.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/dashboard.png","alt":"dashboard.png","width":"700","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+44:["$","blockquote",null,{"children":["\n",["$","p",null,{"children":["数据说明：\n ID：Java 级别的线程 ID\n NAME：线程名\n GROUP：线程组名\n PRIORITY：线程优先级（1~10），数字越大，优先级越高\n STATE：线程的状态\n CPU%：线程占用的 cpu 使用率，采样 100ms\n TIME：线程运行总时间，数据格式为",["$","code",null,{"children":"分:秒"}]," >  INTERRUPTED：线程当前的中断位状态\n DAEMON：是否为 daemon 线程"]}],"\n"]}]
+45:["$","$L20",null,{"as":"h3","id":"thread-线程","children":"thread 线程"}]
+46:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：查看当前 JVM 中的线程堆栈信息"]}]
+47:["$","p",null,{"children":[["$","strong",null,{"children":"参数说明"}],"："]}]
+48:["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"参数名称"}],["$","th",null,{"children":"参数说明"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"数字"}]}],["$","td",null,{"children":"线程 ID"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"[n:]"}]}],["$","td",null,{"children":"指定最忙的前 N 个线程并打印堆栈"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"[b]"}]}],["$","td",null,{"children":"找出当前阻塞其它线程的线程"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"[i <value>]"}]}],["$","td",null,{"children":"指定 cpu 占比统计的采样间隔，单位为毫秒"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"--all"}]}],["$","td",null,{"children":"显示所有匹配的线程"}]]}]]}]]}]}]
+49:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/thread_all.png","alt":"线程查看.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/thread_all.png","alt":"线程查看.png","width":"700","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+4a:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/thread_1.png","alt":"线程ID_1.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/thread_1.png","alt":"线程ID_1.png","width":"700","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+4b:["$","$L20",null,{"as":"h3","id":"jvm-虚拟机","children":"jvm 虚拟机"}]
+4c:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：查看当前 JVM 的信息"]}]
+4d:["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/jvm.png","alt":"jvm部分截图 .png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/jvm.png","alt":"jvm部分截图 .png","width":"700","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+4e:["$","p",null,{"children":[["$","strong",null,{"children":"THREAD 相关"}],"：\n",["$","code",null,{"children":"COUNT"}],"：JVM 当前活跃的线程数\n",["$","code",null,{"children":"DAEMON-COUNT"}],"：JVM 当前活跃的守护线程数\n",["$","code",null,{"children":"PEAK-COUNT"}],"：从 JVM 启动开始曾经活着的最大线程数\n",["$","code",null,{"children":"STARTED-COUNT"}],"：从 JVM 启动开始总共启动过的线程次数\n",["$","code",null,{"children":"DEADLOCK-COUNT"}],"：JVM 当前死锁的线程数"]}]
+4f:["$","p",null,{"children":[["$","strong",null,{"children":"文件描述符相关"}],":\n",["$","code",null,{"children":"MAX-FILE-DESCRIPTOR-COUNT"}],"：JVM 进程最大可以打开的文件描述符数\n",["$","code",null,{"children":"OPEN-FILE-DESCRIPTOR-COUNT"}],"：JVM 当前打开的文件描述符数"]}]
+50:["$","$L20",null,{"as":"h3","id":"sysprop-系统属性","children":"sysprop 系统属性"}]
+51:["$","p",null,{"children":[["$","strong",null,{"children":"作用"}],"：查看和修改当前 JVM 中的系统属性"]}]
+52:["$","$L67",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L68",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# 显示所有系统属性"}]}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"sysprop"}]}],"\n",["$","span",null,{"className":"line"}],"\n",["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# 显示指定系统属性"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"sysprop"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" user.name"}]]}]]}]}]}]
+53:["$","p",null,{"children":["$","$L21",null,{"src":"/tech-notes-site/content/backend/arthas/img/sysprop.png","alt":"系统属性部分截图.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/arthas/img/sysprop.png","alt":"系统属性部分截图.png","width":"1622","height":"768","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]}]
+54:["$","$L20",null,{"as":"h2","id":"classclassloader-相关","children":"class/classloader 相关"}]
+55:["$","$L20",null,{"as":"h2","id":"monitorwatchtrace-相关","children":"monitor/watch/trace 相关"}]
+56:["$","$L69",null,{"date":"$D2026-11-05T06:57:24.391Z"}]
+57:["$","link","0",{"rel":"stylesheet","href":"/tech-notes-site/_next/static/chunks/0iaxnelvtqw2u.css","precedence":"next"}]
+58:["$","script","script-0",{"src":"/tech-notes-site/_next/static/chunks/1qaxjynlgh6e6.js","async":true}]
+59:["$","script","script-1",{"src":"/tech-notes-site/_next/static/chunks/2cnbh4knicb4c.js","async":true}]
+5a:["$","script","script-2",{"src":"/tech-notes-site/_next/static/chunks/3utjie8cqywbm.js","async":true}]
+5b:["$","script","script-3",{"src":"/tech-notes-site/_next/static/chunks/2jkjncdgnvzrz.js","async":true}]
+5c:["$","$L6a",null,{"children":["$","$62",null,{"name":"Next.MetadataOutlet","children":"$@6b"}]}]
+66:true
+d:300
+6b:null
+d:C
+65:0
+b:"$undefined"
+64:"$undefined"
+5d:"$undefined"

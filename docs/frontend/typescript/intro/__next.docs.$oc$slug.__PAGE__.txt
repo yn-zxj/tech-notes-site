@@ -1,0 +1,62 @@
+3:"$Sreact.fragment"
+4:"/tech-notes-site/_next/static/chunks/26wj98hf27hx-.js"
+5:"/tech-notes-site/_next/static/chunks/0uui-zb0iocsm.js"
+6:"/tech-notes-site/_next/static/chunks/2w66uwvhtklfr.js"
+7:"/tech-notes-site/_next/static/chunks/1lbo_zhl-gg24.js"
+8:"/tech-notes-site/_next/static/chunks/34nug9ljfrc9g.js"
+9:I[139380,["$4","$5","$6","$7","$8"],"default"]
+a:I[834348,["$4","$5","$6","$7","$8"],"default"]
+f:"/tech-notes-site/_next/static/chunks/147lgmd0j_l4-.js"
+10:"/tech-notes-site/_next/static/chunks/1wgoq9h1cbt-3.js"
+11:"/tech-notes-site/_next/static/chunks/2t-2in9ud9a0p.js"
+12:"/tech-notes-site/_next/static/chunks/1qaxjynlgh6e6.js"
+13:"/tech-notes-site/_next/static/chunks/2cnbh4knicb4c.js"
+14:"/tech-notes-site/_next/static/chunks/3utjie8cqywbm.js"
+15:"/tech-notes-site/_next/static/chunks/2jkjncdgnvzrz.js"
+16:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsPage"]
+17:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsTitle"]
+18:I[702819,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"default"]
+19:"MarkdownCopyButton"
+1a:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"$19"]
+1b:"ViewOptionsPopover"
+1c:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"$1b"]
+1d:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsDescription"]
+1e:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsBody"]
+1f:I[904659,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Lightbox"]
+20:I[602310,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"CodeBlock"]
+21:I[602310,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Pre"]
+2e:"ViewportBoundary"
+2f:I[100898,["$4","$5","$6","$7","$8"],"$2e"]
+30:"MetadataBoundary"
+31:I[100898,["$4","$5","$6","$7","$8"],"$30"]
+32:"$Sreact.suspense"
+33:I[106270,["$4","$5","$6","$7","$8"],"IconMark"]
+c:X
+c:C
+d:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$L16",null,{"toc":[],"children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","$L17",null,{"className":"min-w-0","children":"初识TypeScript"}],["$","div",null,{"className":"flex shrink-0 flex-nowrap items-center gap-2 whitespace-nowrap","children":[["$","a",null,{"href":"/tech-notes-site/print/docs/frontend/typescript/intro","target":"_blank","rel":"noopener","title":"导出 PDF","aria-label":"导出 PDF","className":"rounded-md border p-1.5 text-fd-muted-foreground hover:bg-fd-accent","children":["$","$L18",null,{"icon":{"name":"file-down","size":24,"node":[["path",{"d":"M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z","key":"1oefj6"}],["path",{"d":"M14 2v5a1 1 0 0 0 1 1h5","key":"wfsgrz"}],["path",{"d":"M12 18v-6","key":"17g6i2"}],["path",{"d":"m9 15 3 3 3-3","key":"1npd3o"}]]},"className":"size-4"}]}],["$","details",null,{"className":"relative","children":[["$","summary",null,{"aria-label":"导出 EPUB","title":"导出 EPUB","className":"cursor-pointer list-none rounded-md border p-1.5 text-fd-muted-foreground hover:bg-fd-accent","children":["$","$L18",null,{"icon":{"name":"book-down","size":24,"node":[["path",{"d":"M12 13V7","key":"h0r20n"}],["path",{"d":"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20","key":"k3hazp"}],["path",{"d":"m9 10 3 3 3-3","key":"zt5b4y"}]]},"className":"size-4"}]}],["$","div",null,{"className":"absolute end-0 top-full z-50 mt-2 w-56 rounded-xl border bg-fd-popover p-1 text-sm text-fd-popover-foreground shadow-lg","children":[["$","a",null,{"className":"block rounded-lg px-3 py-2 hover:bg-fd-accent","href":"/tech-notes-site/export/epub/article/frontend/typescript/intro/notes.epub","children":"当前文章"}],["$","a",null,{"className":"block whitespace-normal rounded-lg px-3 py-2 hover:bg-fd-accent","href":"/tech-notes-site/export/epub/topic/frontend/typescript/notes.epub","children":["当前专题：","TypeScript"]}]]}]]}],["$","$L1a",null,{"markdownUrl":"/tech-notes-site/llms.mdx/docs/frontend/typescript/intro/content.md"}],["$","$L1c",null,{"markdownUrl":"/tech-notes-site/llms.mdx/docs/frontend/typescript/intro/content.md"}]]}]]}],["$","$L1d",null,{"className":"mb-0"}],["$","div",null,{"className":"border-b pb-6"}],["$","$L1e",null,{"children":["$","$L1f",null,{"children":[["$","p",null,{"children":["1.学习 TypeScript 需要安装",["$","code",null,{"children":"Node.js"}],"，另外还需要安装 TypeScript 编译器，可以通过 Node 包管理器(NPM，Node Package Manager)执行下面命令："]}],"\n",["$","$L20",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L21",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"npm"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" install"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" -g"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" typescript"}]]}]}]}]}],"\n",["$","p",null,{"children":"如果想要 TypeScript 版本只针对特定的项目，则输入下面命令："}],"\n",["$","$L20",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":"$L22"}],"\n","$L23","\n","$L24","\n","$L25"]}]}],"$L26"]}],["$L27","$L28","$L29","$L2a","$L2b"],"$L2c"]}],"p":"$@2d","v":null,"s":"$d"}}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"frontend/typescript/intro","s":["interview"]},"h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@b","v":"$c","s":"$d"},"c":"$Qe"}]]
+1:[["children",{"s":"docs","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L2f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L31",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$32",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"初识TypeScript · 知栈"}],["$","link","1",{"rel":"icon","href":"/tech-notes-site/logo.svg"}],["$","$L33","2",{}]]}]}],null]}],null]}],"p":"$@34","v":null,"s":"$d"}},"a":"$@35","u":"$@36","b":"1D3TL_6oYLV3wVbjISwAt"}
+37:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"PageLastUpdate"]
+38:I[100898,["$4","$5","$6","$7","$8"],"OutletBoundary"]
+:HL["/tech-notes-site/_next/static/chunks/0iaxnelvtqw2u.css","style"]
+22:["$","$L21",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"npm"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" install"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" typescript"}],["$","span",null,{"style":{"--shiki-light":"#005CC5","--shiki-dark":"#79B8FF"},"children":" --save-dev"}]]}]}]}]
+23:["$","p",null,{"children":["2.",["$","code",null,{"children":"ts"}],"文件需要使用 tsc 编译器进行编译"]}]
+24:["$","$L20",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L21",null,{"children":["$","code",null,{"children":["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"tsc"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" xxx.ts"}]]}]}]}]}]
+25:["$","blockquote",null,{"children":["\n",["$","p",null,{"children":["尽管可以使用命令编译 TypeScript，但是使用",["$","code",null,{"children":"tsconfig.json"}],"更加便捷，可以使用",["$","code",null,{"children":"tsc --init"}],"创建，将在后面介绍。"]}],"\n"]}]
+26:["$","$L37",null,{"date":"$D2026-11-05T06:57:24.395Z"}]
+27:["$","link","0",{"rel":"stylesheet","href":"/tech-notes-site/_next/static/chunks/0iaxnelvtqw2u.css","precedence":"next"}]
+28:["$","script","script-0",{"src":"/tech-notes-site/_next/static/chunks/1qaxjynlgh6e6.js","async":true}]
+29:["$","script","script-1",{"src":"/tech-notes-site/_next/static/chunks/2cnbh4knicb4c.js","async":true}]
+2a:["$","script","script-2",{"src":"/tech-notes-site/_next/static/chunks/3utjie8cqywbm.js","async":true}]
+2b:["$","script","script-3",{"src":"/tech-notes-site/_next/static/chunks/2jkjncdgnvzrz.js","async":true}]
+2c:["$","$L38",null,{"children":["$","$32",null,{"name":"Next.MetadataOutlet","children":"$@39"}]}]
+36:true
+d:300
+39:null
+d:C
+35:0
+b:"$undefined"
+34:"$undefined"
+2d:"$undefined"

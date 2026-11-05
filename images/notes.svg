@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210">
+  <rect width="900" height="210" rx="18" fill="#f4faf7"/>
+  <g fill="#ffffff" stroke="#bddccb" stroke-width="2">
+    <rect x="40" y="55" width="230" height="100" rx="12"/>
+    <rect x="335" y="55" width="230" height="100" rx="12"/>
+    <rect x="630" y="55" width="230" height="100" rx="12"/>
+  </g>
+  <g fill="#178054" font-family="system-ui, sans-serif" text-anchor="middle">
+    <text x="155" y="101" font-size="22">写下知识</text><text x="155" y="129" font-size="14">Markdown</text>
+    <text x="450" y="101" font-size="22">组织内容</text><text x="450" y="129" font-size="14">侧栏与目录</text>
+    <text x="745" y="101" font-size="22">随时查阅</text><text x="745" y="129" font-size="14">静态文档站</text>
+  </g>
+  <g fill="none" stroke="#178054" stroke-width="2"><path d="M280 105h42m-8-7 8 7-8 7M575 105h42m-8-7 8 7-8 7"/></g>
+</svg>

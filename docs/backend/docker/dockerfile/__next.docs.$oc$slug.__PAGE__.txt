@@ -1,0 +1,76 @@
+3:"$Sreact.fragment"
+4:"/tech-notes-site/_next/static/chunks/26wj98hf27hx-.js"
+5:"/tech-notes-site/_next/static/chunks/0uui-zb0iocsm.js"
+6:"/tech-notes-site/_next/static/chunks/2w66uwvhtklfr.js"
+7:"/tech-notes-site/_next/static/chunks/1lbo_zhl-gg24.js"
+8:"/tech-notes-site/_next/static/chunks/34nug9ljfrc9g.js"
+9:I[139380,["$4","$5","$6","$7","$8"],"default"]
+a:I[834348,["$4","$5","$6","$7","$8"],"default"]
+f:"/tech-notes-site/_next/static/chunks/147lgmd0j_l4-.js"
+10:"/tech-notes-site/_next/static/chunks/1wgoq9h1cbt-3.js"
+11:"/tech-notes-site/_next/static/chunks/2t-2in9ud9a0p.js"
+12:"/tech-notes-site/_next/static/chunks/1qaxjynlgh6e6.js"
+13:"/tech-notes-site/_next/static/chunks/2cnbh4knicb4c.js"
+14:"/tech-notes-site/_next/static/chunks/3utjie8cqywbm.js"
+15:"/tech-notes-site/_next/static/chunks/2jkjncdgnvzrz.js"
+16:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsPage"]
+17:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsTitle"]
+18:I[702819,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"default"]
+19:"MarkdownCopyButton"
+1a:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"$19"]
+1b:"ViewOptionsPopover"
+1c:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"$1b"]
+1d:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsDescription"]
+1e:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"DocsBody"]
+1f:I[904659,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Lightbox"]
+20:I[401448,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Heading"]
+39:"ViewportBoundary"
+3a:I[100898,["$4","$5","$6","$7","$8"],"$39"]
+3b:"MetadataBoundary"
+3c:I[100898,["$4","$5","$6","$7","$8"],"$3b"]
+3d:"$Sreact.suspense"
+3e:I[106270,["$4","$5","$6","$7","$8"],"IconMark"]
+c:X
+c:C
+d:X
+e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$L16",null,{"toc":[{"depth":2,"url":"#dockerfile-介绍","title":["1. ","Dockerfile 介绍"]},{"depth":2,"url":"#dockerfile-构建过程","title":["2. ","Dockerfile 构建过程"]},{"depth":2,"url":"#dockerfile-指令","title":["3. ","Dockerfile 指令"]},{"depth":3,"url":"#env","title":["3.1 ","ENV"]},{"depth":3,"url":"#from","title":["3.2 ","FROM"]},{"depth":3,"url":"#copy","title":["3.3 ","COPY"]},{"depth":3,"url":"#add","title":["3.4 ","ADD"]},{"depth":3,"url":"#run","title":["3.5 ","RUN"]},{"depth":3,"url":"#cmd","title":["3.6 ","CMD"]},{"depth":3,"url":"#entrypoint","title":["3.7 ","ENTRYPOINT"]},{"depth":3,"url":"#onbuild","title":["3.8 ","ONBUILD"]}],"children":[["$","div",null,{"className":"flex items-center justify-between gap-4","children":[["$","$L17",null,{"className":"min-w-0","children":"Dockerfile"}],["$","div",null,{"className":"flex shrink-0 flex-nowrap items-center gap-2 whitespace-nowrap","children":[["$","a",null,{"href":"/tech-notes-site/print/docs/backend/docker/dockerfile","target":"_blank","rel":"noopener","title":"导出 PDF","aria-label":"导出 PDF","className":"rounded-md border p-1.5 text-fd-muted-foreground hover:bg-fd-accent","children":["$","$L18",null,{"icon":{"name":"file-down","size":24,"node":[["path",{"d":"M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z","key":"1oefj6"}],["path",{"d":"M14 2v5a1 1 0 0 0 1 1h5","key":"wfsgrz"}],["path",{"d":"M12 18v-6","key":"17g6i2"}],["path",{"d":"m9 15 3 3 3-3","key":"1npd3o"}]]},"className":"size-4"}]}],["$","details",null,{"className":"relative","children":[["$","summary",null,{"aria-label":"导出 EPUB","title":"导出 EPUB","className":"cursor-pointer list-none rounded-md border p-1.5 text-fd-muted-foreground hover:bg-fd-accent","children":["$","$L18",null,{"icon":{"name":"book-down","size":24,"node":[["path",{"d":"M12 13V7","key":"h0r20n"}],["path",{"d":"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20","key":"k3hazp"}],["path",{"d":"m9 10 3 3 3-3","key":"zt5b4y"}]]},"className":"size-4"}]}],["$","div",null,{"className":"absolute end-0 top-full z-50 mt-2 w-56 rounded-xl border bg-fd-popover p-1 text-sm text-fd-popover-foreground shadow-lg","children":[["$","a",null,{"className":"block rounded-lg px-3 py-2 hover:bg-fd-accent","href":"/tech-notes-site/export/epub/article/backend/docker/dockerfile/notes.epub","children":"当前文章"}],["$","a",null,{"className":"block whitespace-normal rounded-lg px-3 py-2 hover:bg-fd-accent","href":"/tech-notes-site/export/epub/topic/backend/docker/notes.epub","children":["当前专题：","Docker"]}]]}]]}],["$","$L1a",null,{"markdownUrl":"/tech-notes-site/llms.mdx/docs/backend/docker/dockerfile/content.md"}],["$","$L1c",null,{"markdownUrl":"/tech-notes-site/llms.mdx/docs/backend/docker/dockerfile/content.md"}]]}]]}],["$","$L1d",null,{"className":"mb-0"}],["$","div",null,{"className":"border-b pb-6"}],["$","$L1e",null,{"children":["$","$L1f",null,{"children":[["$","$L20",null,{"as":"h2","id":"dockerfile-介绍","children":"Dockerfile 介绍"}],"\n",["$","p",null,{"children":["  Dockerfile 是 Docker 用来构建镜像的文本文件，包含自定义的指令和格式。可以通过",["$","code",null,{"children":"docker build"}],"命令从 Dockerfile 中构建镜像。用户可以用这些统一的语法命令来根据需求进行配置，通过这份统一的配置文件，在不同的平台上进行分发，需要使用时就可以根据配置文件自动化构建，这解决了开发人员构建镜像的复杂过程。同时 Dockerfile 与镜像配合使用，使 Docker 在构建时可以充分利用镜像的功能进行缓存，大大提升了 Docker 的使用率。"]}],"\n",["$","$L20",null,{"as":"h2","id":"dockerfile-构建过程","children":"Dockerfile 构建过程"}],"\n",["$","p",null,{"children":"  Dockerfile 描述了组装镜像的步骤，其中每条指令都是单独执行的。除了 FROM 指令，其它每一条指令都会在上一条指令所生成镜像的基础上执行执行完后会生成一个新的镜像层，新的镜像层覆盖在原来的镜像之上从而形成了新的镜像。Dockerfile 所生成的最终镜像就是在基础镜像上面叠加一层层的镜像层组建的。"}],"\n",["$","p",null,{"children":"  为了提高镜像构建的速度，Docker daemon 会缓存构建过程中的中间镜像。当从一个已在缓存中的基础镜像开始构建新镜像时，会将 Dockerfile 中的下一条指令和基础镜像的所有子镜像做比较，如果有一个镜像是由相同的指令生成的，则命中缓存，直接使用该镜像，而不用再生成一个新的镜像。"}],"\n",["$","p",null,{"children":["  在寻找缓存的过程中，",["$","code",null,{"children":"COPY"}],"和",["$","code",null,{"children":"ADD"}],"指令与其它指令稍有不同，其它指令只对比生成镜像的指令字符串是否相同；而",["$","code",null,{"children":"COPY"}],"和",["$","code",null,{"children":"ADD"}],"指令还会对比源文件的内容是否相同，只有当源文件的内容与之前构建时完全一致时，才会命中缓存。"]}],"\n","$L21","\n","$L22","\n","$L23","\n","$L24","\n","$L25","\n","$L26","\n","$L27","\n","$L28","\n","$L29","\n","$L2a","\n","$L2b","\n","$L2c","\n","$L2d","\n","$L2e","\n","$L2f","\n","$L30"]}]}],"$L31"]}],["$L32","$L33","$L34","$L35","$L36"],"$L37"]}],"p":"$@38","v":null,"s":"$d"}}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"backend/docker/dockerfile","s":["interview"]},"h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@b","v":"$c","s":"$d"},"c":"$Qe"}]]
+1:[["children",{"s":"docs","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L3a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L3c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$3d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Dockerfile · 知栈"}],["$","link","1",{"rel":"icon","href":"/tech-notes-site/logo.svg"}],["$","$L3e","2",{}]]}]}],null]}],null]}],"p":"$@3f","v":null,"s":"$d"}},"a":"$@40","u":"$@41","b":"1D3TL_6oYLV3wVbjISwAt"}
+42:I[602310,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"CodeBlock"]
+43:I[602310,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"Pre"]
+44:I[904659,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"ImageZoom"]
+45:I[132841,["$4","$5","$6","$7","$8","$f","$10","$11","$12","$13","$14","$15"],"PageLastUpdate"]
+46:I[100898,["$4","$5","$6","$7","$8"],"OutletBoundary"]
+:HL["/tech-notes-site/_next/static/chunks/0iaxnelvtqw2u.css","style"]
+21:["$","p",null,{"children":"  此外，镜像构建过程中，一旦缓存失效，则后续的指令都将生成新的镜像，而不再使用缓存。"}]
+22:["$","$L20",null,{"as":"h2","id":"dockerfile-指令","children":"Dockerfile 指令"}]
+23:["$","p",null,{"children":[["$","strong",null,{"children":"基本格式"}],"："]}]
+24:["$","$L42",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L43",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# Comment"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"INSTRUCTION"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" arguments"}]]}]]}]}]}]
+25:["$","p",null,{"children":["  指令(INSTRUCTION)不区分大小写，但是为了与参数区分，推荐大写。Docker 会顺序执行 Dockerfile 中的指令，第一条指令必须是",["$","code",null,{"children":"FROM"}],"指令，它用于指定构建镜像的基础镜像。在 Dockerfile 中以",["$","code",null,{"children":"#"}],"开头的行是注释，而其它位置出现会被当做参数，示例如下："]}]
+26:["$","$L42",null,{"className":"shiki shiki-themes github-light github-dark","style":{"--shiki-light":"#24292e","--shiki-dark":"#e1e4e8","--shiki-light-bg":"#fff","--shiki-dark-bg":"#24292e"},"tabIndex":"0","icon":"<svg viewBox=\"0 0 24 24\"><path d=\"m 4,4 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140625 L 8.5859375,11 3.2929688,16.292969 a 1,1 0 0 0 0,1.414062 1,1 0 0 0 1.4140624,0 l 5.9999998,-6 a 1.0001,1.0001 0 0 0 0,-1.414062 L 4.7070312,4.2929687 A 1,1 0 0 0 4,4 Z m 8,14 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 h 8 a 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z\" fill=\"currentColor\" /></svg>","children":["$","$L43",null,{"children":["$","code",null,{"children":[["$","span",null,{"className":"line","children":["$","span",null,{"style":{"--shiki-light":"#6A737D","--shiki-dark":"#6A737D"},"children":"# Comment"}]}],"\n",["$","span",null,{"className":"line","children":[["$","span",null,{"style":{"--shiki-light":"#6F42C1","--shiki-dark":"#B392F0"},"children":"RUN"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" echo"}],["$","span",null,{"style":{"--shiki-light":"#032F62","--shiki-dark":"#9ECBFF"},"children":" 'we are running some # of cool things'"}]]}]]}]}]}]
+27:["$","p",null,{"children":"  Dockerfile 中的指令有 FROM、MAINTAINER、RUN、CMD、EXPOSE、ENV、ADD、COPY、ENTRYPOINT、VOLUME、USER、WORKDIR、ONBUILD 和 HEALTHCHECK 等。"}]
+28:["$","$L44",null,{"src":"/tech-notes-site/content/backend/docker/img/common_command.png","alt":"常用指令.png","children":["$","img",null,{"src":"/tech-notes-site/content/backend/docker/img/common_command.png","alt":"常用指令.png","width":"500","loading":"lazy","className":"doc-image rounded-lg ","style":{"maxWidth":"100%","height":"auto"}}]}]
+29:["$","$L20",null,{"as":"h3","id":"env","children":"ENV"}]
+2a:["$","$L20",null,{"as":"h3","id":"from","children":"FROM"}]
+2b:["$","$L20",null,{"as":"h3","id":"copy","children":"COPY"}]
+2c:["$","$L20",null,{"as":"h3","id":"add","children":"ADD"}]
+2d:["$","$L20",null,{"as":"h3","id":"run","children":"RUN"}]
+2e:["$","$L20",null,{"as":"h3","id":"cmd","children":"CMD"}]
+2f:["$","$L20",null,{"as":"h3","id":"entrypoint","children":"ENTRYPOINT"}]
+30:["$","$L20",null,{"as":"h3","id":"onbuild","children":"ONBUILD"}]
+31:["$","$L45",null,{"date":"$D2026-11-05T06:57:24.394Z"}]
+32:["$","link","0",{"rel":"stylesheet","href":"/tech-notes-site/_next/static/chunks/0iaxnelvtqw2u.css","precedence":"next"}]
+33:["$","script","script-0",{"src":"/tech-notes-site/_next/static/chunks/1qaxjynlgh6e6.js","async":true}]
+34:["$","script","script-1",{"src":"/tech-notes-site/_next/static/chunks/2cnbh4knicb4c.js","async":true}]
+35:["$","script","script-2",{"src":"/tech-notes-site/_next/static/chunks/3utjie8cqywbm.js","async":true}]
+36:["$","script","script-3",{"src":"/tech-notes-site/_next/static/chunks/2jkjncdgnvzrz.js","async":true}]
+37:["$","$L46",null,{"children":["$","$3d",null,{"name":"Next.MetadataOutlet","children":"$@47"}]}]
+41:true
+d:300
+47:null
+d:C
+40:0
+b:"$undefined"
+3f:"$undefined"
+38:"$undefined"
